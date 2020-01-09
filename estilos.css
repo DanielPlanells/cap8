@@ -4,3 +4,10 @@ textarea {
     width: 400px;
     height: 120px;
 }
+
+label {
+    width: 130px;
+    display: block;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
